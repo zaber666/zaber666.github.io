@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper on <b>Weakly Supervised Sentence Component Analysis</b> got accepted in CVPRW! :sparkles: :smile:

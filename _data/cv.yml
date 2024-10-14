@@ -11,16 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Computer Science
+      institution: Bangladesh University of Engineering and Technology
+      year: Apr 2018 - May 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis on Sign Language Recognition and Translation (Accepted in ICIP 2024)
+        - Software Development
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
