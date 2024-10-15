@@ -1,11 +1,10 @@
 ---
-layout: cv
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+layout: projectL
+title: Experience
+permalink: /experience/
+description: Professional Work and Education of Zaber Ibn Abdul Hakim.
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
 toc:
   sidebar: left
 ---

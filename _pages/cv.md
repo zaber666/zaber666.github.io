@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /assets/pdf/final_resume_for_admission.pdf
+title: Resume
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
