@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/final_resume_for_admission.pdf
+permalink: /assets/pdf/Zaber-Resume.pdf
 title: Resume
 nav: true
 nav_order: 5
