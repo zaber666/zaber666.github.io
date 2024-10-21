@@ -200,7 +200,7 @@ on:
   workflow_dispatch:
 jobs:
   repo-sync:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       # To use this repository's private action, you must check out the repository
       - name: Checkout
