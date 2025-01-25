@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Zaber. Currently, I am afirst year Master's (thesis) student at Virginia Tech. I'm working with multimodal learning. Additonally, I have experience of working with deepfake detection, anomaly detection, and sign language analysis. I also have industry experience, where I built LLM based solutions to create an assistant for the clients to interact with the sevices. 
+Hello! I am a Zaber. Currently, I am pursuing my Master's (thesis)  at Virginia Tech and expecting to graduate by May 2026. I'm working with LLMs and multimodal learning. Additonally, I have experience of working with deepfake detection, anomaly detection, and sign language analysis. I also have industry experience, where I built LLM based solutions to create an assistant for the clients to interact with the sevices. 
 
 Currently, I am advised my [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). Previously, I worked as [IQVIA]() as a machine learning enginner under the supervision of [Srikanth Sankaran Iyer](https://www.linkedin.com/in/srikiyer/). Moreover, I have also spent 2 years as a research intern at [Xu Lab](https://xulabs.github.io/) at Carnegie Mellon University, under the supervision of Dr. Min Xu.
 
@@ -29,10 +29,10 @@ Throughout my journey, I have authored multiple research publications. Before jo
     <h4>Interest</h4>
     <ul>
       <li>
-        Vision-Language Joint Learning
+        Multimodal LLMs
       </li>
       <li>
-        Computer Vision
+        Model Efficiency and Safety
       </li>
       <li>
         Deepfake Detection
