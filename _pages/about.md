@@ -26,7 +26,7 @@ My work has appeared at venues including ICLR, CVPR, ECCV, ACL, EMNLP and AAAI. 
 
 <div style="display: flex; justify-content: space-between;">
   <!-- First list -->
-  <div style="width: 30%;">
+  <div style="width: 100%;">
     <h4>Interest</h4>
     <ul>
       <li>
