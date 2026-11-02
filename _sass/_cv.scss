@@ -213,3 +213,12 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+img.cv-logo {
+  display: block;
+  width: 90px;
+  height: 56px;
+  margin: 0.5rem auto 0;
+  object-fit: contain;
+  border-radius: 6px;
+}
