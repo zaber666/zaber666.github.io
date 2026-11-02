@@ -2,26 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Master's Student at Virginia Tech</a>
+subtitle: <a href='#'>Senior Data Scientist at Capital One</a>
 
 profile:
   align: right
   image: zaber_photo.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Data and Decision Sciences Building</p>
-    <p>Blacksburg, Virginia 24060</p>
+    <p>114, 5th Ave</p>
+    <p>New York, NY</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Zaber. Currently, I am pursuing my Master's (thesis)  at Virginia Tech and expecting to graduate by May 2026. I'm working with LLMs and multimodal learning. Additonally, I have experience of working with deepfake detection, anomaly detection, and sign language analysis. I also have industry experience, where I built LLM based solutions to create an assistant for the clients to interact with the sevices. 
+Hello! I'm Zaber, a **Senior Data Scientist at Capital One**. There I build evaluation frameworks for LLMs and agentic systems and improve the validation components of a production multi-agent system. I recently completed my M.S. in Computer Science (thesis) at Virginia Tech with a 4.00 GPA, advised by [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). My research focuses on multimodal LLMs: multimodal information extraction, video and audio understanding, LLM post-training with reinforcement learning, and the security and robustness of multimodal models.
 
-Currently, I am advised my [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). Previously, I worked as [IQVIA]() as a machine learning enginner under the supervision of [Srikanth Sankaran Iyer](https://www.linkedin.com/in/srikiyer/). Moreover, I have also spent 2 years as a research intern at [Xu Lab](https://xulabs.github.io/) at Carnegie Mellon University, under the supervision of Dr. Min Xu.
+Before Capital One, I was an AI Research Intern at Comcast, where I built LLM-supervised clustering pipelines for large-scale conversation data. Before that, I was a Machine Learning Engineer at [IQVIA](https://www.iqvia.com/) under [Srikanth Sankaran Iyer](https://www.linkedin.com/in/srikiyer/), where I fine-tuned and deployed the LLM behind IQVIA's AI Assistant. Earlier, I was a research intern at [Xu Lab](https://xulabs.github.io/), CMU.
 
-Throughout my journey, I have authored multiple research publications. Before joining research, I used to actively participate in Deep Learning competition on Kaggle, DrivenData and many other platforms. For my performance, I have been titled as [Kaggle Competition Master](https://www.kaggle.com/zaber666), with a peak sitewise rank of 385 out of 200,000+ competitiors. Additionally, I am also the winner of [IEEE Signal Processing Cup](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022).
+My work has appeared at venues including ICLR, CVPR, ECCV, ACL, EMNLP and AAAI. Before research, I competed actively on Kaggle, DrivenData and other platforms. I earned the [Kaggle Competition Master](https://www.kaggle.com/zaber666) title with a peak rank of 385 out of 200,000+ competitors, and I won the [IEEE Signal Processing Cup](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022) and the Kaggle Days World Championship 2022.
 
 <div style="display: flex; justify-content: space-between;">
   <!-- First list -->
@@ -29,13 +29,13 @@ Throughout my journey, I have authored multiple research publications. Before jo
     <h4>Interest</h4>
     <ul>
       <li>
-        Multimodal LLMs
+        Information Extraction and Retrieval
       </li>
       <li>
-        Model Efficiency and Safety
+        Multi-Agent Systems and Evaluation
       </li>
       <li>
-        Deepfake Detection
+        Large-Scale LLM Training
       </li>
     </ul>
   </div>
