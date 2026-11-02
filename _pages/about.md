@@ -12,7 +12,8 @@ profile:
     <p>114, 5th Ave</p>
     <p>New York, NY</p>
 
-news: true # includes a list of news items
+# news: true # includes a list of news items
+news: false # news hidden; swap with the line above to show it again
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
